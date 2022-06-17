@@ -6,7 +6,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background-color: #5d6d7d;
+    background-color: white;
 }
 .containerr{
     max-width: 900px;
@@ -29,7 +29,7 @@ table tr:nth-child(odd){
 }
 table td{
     padding: 12px;
-    color: #fff;
+    color: black;
     font-size:1em;
     text-align: center;
 }
